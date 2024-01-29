@@ -475,3 +475,6 @@ print(words)
 ```python 
 se ae sd
 ```
+
+## .maketrans()
+Самый быстрый maketrans('', '', '.,:():;!?')
